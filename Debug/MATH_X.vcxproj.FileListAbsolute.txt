@@ -1,0 +1,8 @@
+C:\Users\joaoh\OneDrive\Desktop\WCSU 2021 SPRING\CS - 240\Assigments\0 - MATH_X\Code\MATH_X\Debug\MATHX.Form1.resources
+C:\Users\joaoh\OneDrive\Desktop\WCSU 2021 SPRING\CS - 240\Assigments\0 - MATH_X\Code\MATH_X\Debug\MATHX.Form2.resources
+C:\Users\joaoh\OneDrive\Desktop\WCSU 2021 SPRING\CS - 240\Assigments\0 - MATH_X\Code\MATH_X\Debug\MATHX.Form3.resources
+C:\Users\joaoh\OneDrive\Desktop\WCSU 2021 SPRING\CS - 240\Assigments\0 - MATH_X\Code\MATH_X\Debug\MATH_X.vcxproj.GenerateResource.cache
+C:\Users\joaoh\OneDrive\Desktop\WCSU 2021 SPRING\CS - 240\Assigments\0 - MATH_X\Code\MATH_X\Debug\MATH_X.exe
+C:\Users\joaoh\OneDrive\Desktop\WCSU 2021 SPRING\CS - 240\Assigments\0 - MATH_X\Code\MATH_X\Debug\MATH_X.pdb
+C:\Users\joaoh\OneDrive\Desktop\WCSU 2021 SPRING\CS - 240\Assigments\0 - MATH_X\Code\MATH_X\Debug\MATH_X.vcxprojAssemblyReference.cache
+C:\Users\joaoh\OneDrive\Desktop\WCSU 2021 SPRING\CS - 240\Assigments\0 - MATH_X\Code\MATH_X\Debug\MATHX.HelpForm.resources
